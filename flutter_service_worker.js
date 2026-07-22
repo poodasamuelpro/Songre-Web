@@ -16,10 +16,10 @@ const RESOURCES = {"canvaskit/chromium/canvaskit.js": "5e27aae346eee469027c80af0
 "canvaskit/skwasm_heavy.js.symbols": "3c01ec03b5de6d62c34e17014d1decd3",
 "canvaskit/skwasm_heavy.wasm": "8034ad26ba2485dab2fd49bdd786837b",
 "flutter.js": "888483df48293866f9f41d3d9274a779",
-"flutter_bootstrap.js": "c273a97885b12c9dcc1e3b1ef953cf72",
-"index.html": "20d1195df3fed0157a24e5cd284bdd53",
-"/": "20d1195df3fed0157a24e5cd284bdd53",
-"main.dart.js": "5eaaa22217928e68d29c7d38389ddd2a",
+"flutter_bootstrap.js": "1084d6895ef75c55f2aca7d550c88ae0",
+"index.html": "39bc4d6f69a277de3a3bcc9cb935e2b8",
+"/": "39bc4d6f69a277de3a3bcc9cb935e2b8",
+"main.dart.js": "4bce5bb00986bead421990c250bf980e",
 "version.json": "736baac3eac301f014fa0bbbcbdac86b",
 "assets/assets/images/logo_songre.png": "ed1e02b7863dcc53b8ab7d229abccede",
 "assets/packages/flutter_map/lib/assets/flutter_map_logo.png": "208d63cc917af9713fc9572bd5c09362",
@@ -29,14 +29,14 @@ const RESOURCES = {"canvaskit/chromium/canvaskit.js": "5e27aae346eee469027c80af0
 "assets/AssetManifest.json": "8c4d463d4e5cea55d790030548abf80c",
 "assets/AssetManifest.bin": "63b28fa2b935f3929e5557e8d9e2f249",
 "assets/AssetManifest.bin.json": "6f49c8f441e58aa9e23547e902ce1786",
-"assets/NOTICES": "97e340701a6b2d77aefed311157184d3",
 "assets/FontManifest.json": "dc3d03800ccca4601324923c0b1d6d57",
+"assets/NOTICES": "97e340701a6b2d77aefed311157184d3",
 "icons/Icon-192.png": "ac9a721a12bbc803b44f645561ecb1e1",
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
 "icons/Icon-maskable-192.png": "c457ef57daa1d16f64b27b786ec2ea3c",
 "icons/Icon-maskable-512.png": "301a7604d45b3e739efc881eb04896ea",
 "favicon.png": "5dcef449791fa27946b3d35ad8803796",
-"manifest.json": "fbdba50e3315e8627afe3b96b91922e0"};
+"manifest.json": "3c33b5d1d317875c7dc26b40dc5a8c1c"};
 // The application shell files that are downloaded before a service worker can
 // start.
 const CORE = ["main.dart.js",
